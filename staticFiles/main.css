@@ -1,0 +1,113 @@
+/* mouse hover functions */
+
+a:hover{
+    color:gold;
+}
+a:focus{
+    color: rgb(202, 77, 188);
+}
+
+h1{
+    text-align:left;
+    color:black;
+    font-family: sans-serif;
+    /* padding: 10px 0px 0px 0px; */  
+
+}
+
+body{
+    background-color:rgb(137, 4, 99);
+}
+
+#home{
+    font-size: 15px;
+    margin-left: 370px;
+    padding-right: 2px;
+}
+
+#predict{
+    font-size: 15px;
+    
+}
+
+
+
+.content{
+    color: floralwhite;
+    width: 600px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-top:150px;
+    line-height: 1.5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#sub1{
+    text-align: center;
+    margin-top:-50px;
+    margin-bottom: 0px;
+    color: black;
+    letter-spacing: 1px;
+}
+
+#sub2{
+    margin-left: 100px;
+    margin-top: 5px;
+    color: black;
+    letter-spacing:2px;
+}
+
+#image1{
+    /* float: right; */
+    width: 300px;
+    height:200px;
+    margin-left:650px;
+    margin-top:-250px;
+    padding-bottom: 200px;
+}
+
+
+/* prediction styles */
+
+#pic3{
+    margin-top: 30px;
+    height: 400px;
+    width: 400px;
+
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 620px;
+    letter-spacing: 1.5px;
+    margin-top: -400px;
+}
+
+#btn1{
+   margin-left: 700px;
+   padding: 5px 5px 5px 5px;
+   margin-top: 20px;
+}
+
+#btn2{
+    padding: 5px 5px 5px 5px;
+    margin-left:30px;
+}
+
+input{
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+/* footer{
+    text-align: center;
+    margin-top: 300px;
+    font-size: small;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+footer{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
